@@ -6,6 +6,8 @@
 > 100 % divs without long-load table cells
 > Lightly enough maybe 
 
+![Example screenshot](https://raw.github.com/scenk/tableBuilder/master/screenshot.png)
+
 ### Features
 - auto build hardly multi-table-header
 - endless level if you want
@@ -25,9 +27,7 @@ Take care to maintain the existing coding style if you have another good one :).
 
 1. Options support for Header API -- such as sorting fileds or single option for font-size || line-height || height
 
-2. Options for fixed table header or left bar when scrolling 
-
-Lisence for Magic-Point 
+2. Options for fixed table header or left bar when scrolling
 
 
 
