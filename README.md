@@ -1,12 +1,12 @@
-# TableBuilder.js 
+# TableBuilder.js
 
 ### A jQuery Based Plugin for multi-table-header and auto re-size table-columns
 
 > This only caused by working hardly for sad multi table header and longggggg words
 > 100 % divs without long-load table cells
-> Lightly enough maybe 
+> Lightly enough maybe
 
-![Example screenshot](https://raw.github.com/scenk/tableBuilder/master/screenshot.png)
+![Example screenshot](https://raw.github.com/scenk/tableBuilder/master/screenShot.png)
 
 ### Features
 - auto build hardly multi-table-header
@@ -15,7 +15,7 @@
 - No CSS3 or HTML5 is needed
 
 ### Getting Started
-See the demo folder to have an example: 
+See the demo folder to have an example:
 
 > Pass your json code and it will give you a wonderful table
 > Simplely call it tableBuilder('YOUR CONTAINER HERE', YOUR JSON, {YOUR OPTIONS});
